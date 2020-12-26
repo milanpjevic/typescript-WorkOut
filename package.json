@@ -1,0 +1,12 @@
+{
+	"name": "typescript_1",
+	"version": "1.0.0",
+	"description": "TypeScript WorkOut",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Milan Pjevic",
+	"license": "ISC",
+	"devDependencies": {}
+}
